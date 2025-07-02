@@ -5,7 +5,7 @@ Les données sont issues d’un fichier CSV, disponible à l’adresse suivante 
 
 ##  Objectif du projet
 
-Ce projet vise à analyser un portefeuille de prêts à travers un tableau de bord Power BI interactif.  
+Ce projet vise à analyser un portefeuille de prêts sur l'année 2021 à travers un tableau de bord Power BI interactif.  
 L'objectif est de fournir une vision claire de la **performance globale**, du **profil des emprunteurs**, des **risques associés**, ainsi que des **leviers d’optimisation**.
 
  **Fil conducteur :** Performance → Profil → Risque → Opportunités
