@@ -13,7 +13,7 @@ L'objectif est de fournir une vision claire de la **performance globale**, du **
 ---
 
 ## Page 1 : Vue d’ensemble du portefeuille
-![Dashboard Page 1](images/Page 1.png)
+![Dashboard Page 1](https://github.com/Lynnexxx/LOAN-APPLICATIONS/blob/8382e924888233c6a784b44da3b9b19b51c13a7c/images/Page%201.png)
 
 Cette page fournit une lecture synthétique de la **santé globale du portefeuille** à l’aide de KPI clés :
 
@@ -34,7 +34,7 @@ Un portefeuille dynamique, rentable et maîtrisé, qui pose les bases pour analy
 ---
 
 ##  Page 2 : Profil des emprunteurs
-![Dashboard Page 2](images/Page 2.png)
+![Dashboard Page 2](https://github.com/Lynnexxx/LOAN-APPLICATIONS/blob/8382e924888233c6a784b44da3b9b19b51c13a7c/images/Page%202.png)
 
 Cette page répond à la question **"Qui emprunte ?"** en analysant la solvabilité, les comportements et les opportunités.
 
@@ -57,7 +57,7 @@ Les emprunteurs sont stables, solvables et les meilleurs profils présentent des
 ---
 
 ## Page 3 : Performance et risques
-![Dashboard Page 3](images/Page 3.png)
+![Dashboard Page 3](https://github.com/Lynnexxx/LOAN-APPLICATIONS/blob/8382e924888233c6a784b44da3b9b19b51c13a7c/images/Page%203.png)
 
 Cette dernière page évalue la performance réelle du portefeuille via remboursements, défauts et tendances :
 
