@@ -13,7 +13,7 @@ L'objectif est de fournir une vision claire de la **performance globale**, du **
 ---
 
 ## Page 1 : Vue d’ensemble du portefeuille
-
+![Dashboard Page 1](https://drive.google.com/file/d/1CbmyBtkXzwKeYrPh9tMP0N8lnEnqdLgn/view?usp=drive_link)
 Cette page fournit une lecture synthétique de la **santé globale du portefeuille** à l’aide de KPI clés :
 
 - **14 000 prêts octroyés**, pour un **montant total financé** de **169,02 M€**
@@ -33,6 +33,7 @@ Un portefeuille dynamique, rentable et maîtrisé, qui pose les bases pour analy
 ---
 
 ##  Page 2 : Profil des emprunteurs
+![Dashboard Page 2](https://drive.google.com/file/d/1YBzcVs7NYiusrwqcPVYcGB--IyVG_zQi/view?usp=drive_link)
 
 Cette page répond à la question **"Qui emprunte ?"** en analysant la solvabilité, les comportements et les opportunités.
 
@@ -55,7 +56,7 @@ Les emprunteurs sont stables, solvables et les meilleurs profils présentent des
 ---
 
 ## Page 3 : Performance et risques
-
+![Dashboard Page 3](https://drive.google.com/file/d/1hwDT0RMYG6KxEPJ03xa15Ij6tmy7y59X/view?usp=drive_link)
 Cette dernière page évalue la performance réelle du portefeuille via remboursements, défauts et tendances :
 
 - **Taux de remboursement** : 80,55%  
